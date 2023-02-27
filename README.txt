@@ -1,1 +1,0 @@
-Usage: ./etl.sh [Server IP Address] [Server User ID] [Full-Path Of Source File]
